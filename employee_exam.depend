@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1610059379 source:d:\c++\employee_exam\employe.cpp
+	"Employe.h"
+
+1610059379 d:\c++\employee_exam\employe.h
+	<iostream>
+	<string>
+
+1610062743 source:d:\c++\employee_exam\main.cpp
+	<iostream>
+	"Application.h"
+
+1610062048 source:d:\c++\employee_exam\responsable.cpp
+	"Responsable.h"
+
+1610060179 d:\c++\employee_exam\responsable.h
+	"Employe.h"
+	<list>
+
+1610062821 source:d:\c++\employee_exam\application.cpp
+	"Application.h"
+	<typeinfo>
+	<fstream>
+
+1610062461 d:\c++\employee_exam\application.h
+	"Responsable.h"
+
